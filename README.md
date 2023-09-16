@@ -9,10 +9,10 @@ I am frontend developer who love react and tailwindCSS!
 * 🌍  I'm based in Yangon City, Myanmar
 * 🖥️  See my portfolio at [MyPortfolio](http://ztm.com)
 * ✉️  You can contact me at [yeko96309@gmail.com](mailto:yeko96309@gmail.com)
-* 🚀  I'm currently working on [Hotel Staff](http://mgmhotelyangon.com)
+* 🚀  I'm currently working on [mgmhotelyangon](http://mgmhotelyangon.com)
 * 🧠  I'm learning Laravel,MongoDB
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I Am Batman, Help Everyone
+* ⚡  I Am Batman, Tell Everyone
 
 ### Skills
 
