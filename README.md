@@ -4,15 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am frontend developer who love react and tailwindCSS!
+I am freelance developer who love AI and No Code, Low Code Tools.
 
 * 🌍  I'm based in Yangon City, Myanmar
 * 🖥️  See my portfolio at [MyPortfolio](http://ztm.com)
 * ✉️  You can contact me at [yeko96309@gmail.com](mailto:yeko96309@gmail.com)
-* 🚀  I'm currently working on [mgmhotelyangon](http://mgmhotelyangon.com)
-* 🧠  I'm learning Laravel,MongoDB
+* 🚀  I'm currently working on [Freelancer]
+* 🧠  I'm learning AI Tools and Prompt Engineering 
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I Am Batman, Tell Everyone
+* ⚡  I Am Batman, Help Everyone
 
 ### Skills
 
